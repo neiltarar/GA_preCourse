@@ -1,4 +1,4 @@
-price = Math.floor(Math.random()* 12);
+let price = Math.floor(Math.random()* 12);
 console.log(price);
 
 if (price < 5) {
